@@ -4,7 +4,7 @@
 > This is just a block
 
 
-##This is some header
+## This is some header
 
 |Some header 1|Some Header 2|
 |:---|---:|
@@ -19,7 +19,8 @@ List
 * item 1
 * Item 2
 	* Item 2
-	1. Item1
+	1. Item 1
+	1. Item 2
 		
 ``C#
 Console.ReadLine();
@@ -31,3 +32,7 @@ Some text
 some more text  
 Text is life
  fuck yeah!
+
+# Massive changes going on right fucking now cnt, hell yeah!
+
+
