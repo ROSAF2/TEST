@@ -1,0 +1,7 @@
+C:\Users\Val\Desktop\Otago Polytechnic\BIT COURSE\IN510 001 Programming 1\Programming-1-Labs\PROFESSIONAL PRACTICE FINAL PROJECT\Beginning\Beginning\bin\Debug\Beginning.exe.config
+C:\Users\Val\Desktop\Otago Polytechnic\BIT COURSE\IN510 001 Programming 1\Programming-1-Labs\PROFESSIONAL PRACTICE FINAL PROJECT\Beginning\Beginning\bin\Debug\Beginning.exe
+C:\Users\Val\Desktop\Otago Polytechnic\BIT COURSE\IN510 001 Programming 1\Programming-1-Labs\PROFESSIONAL PRACTICE FINAL PROJECT\Beginning\Beginning\bin\Debug\Beginning.pdb
+C:\Users\Val\Desktop\Otago Polytechnic\BIT COURSE\IN510 001 Programming 1\Programming-1-Labs\PROFESSIONAL PRACTICE FINAL PROJECT\Beginning\Beginning\obj\Debug\Beginning.csprojAssemblyReference.cache
+C:\Users\Val\Desktop\Otago Polytechnic\BIT COURSE\IN510 001 Programming 1\Programming-1-Labs\PROFESSIONAL PRACTICE FINAL PROJECT\Beginning\Beginning\obj\Debug\Beginning.csproj.CoreCompileInputs.cache
+C:\Users\Val\Desktop\Otago Polytechnic\BIT COURSE\IN510 001 Programming 1\Programming-1-Labs\PROFESSIONAL PRACTICE FINAL PROJECT\Beginning\Beginning\obj\Debug\Beginning.exe
+C:\Users\Val\Desktop\Otago Polytechnic\BIT COURSE\IN510 001 Programming 1\Programming-1-Labs\PROFESSIONAL PRACTICE FINAL PROJECT\Beginning\Beginning\obj\Debug\Beginning.pdb
